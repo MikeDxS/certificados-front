@@ -1,2 +1,3 @@
-#Frontend de proyecto certificados
-Para ejecutar instalar live-server
+##Frontend de proyecto certificados
+
+Para ejecutar instalar live-server con npm install -g liver-server
